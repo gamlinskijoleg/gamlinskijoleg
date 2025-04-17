@@ -32,15 +32,5 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gamlinskijoleg&show_icons=true&theme=radical" alt="Oleg's GitHub stats" />
-</p>
-
-
-
----
-
 Thanks for visiting! 🌟  
 Let’s build something awesome together! 🧩
