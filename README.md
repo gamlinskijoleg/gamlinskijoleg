@@ -1,9 +1,10 @@
 <h1>Hi there!👋 I'm Oleg</h1>
-
+ 
 <p>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   <br>
   🧑‍💻 Computer Science Student | 🎨 Aspiring Front-End Developer
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 </p>
 
 ---
