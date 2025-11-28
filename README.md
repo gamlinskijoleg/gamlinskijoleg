@@ -10,7 +10,7 @@
 
 ## 👤 About Me
 
-- 🎂 **Age:** 16  
+- 🎂 **Age:** 17 
 - 🏙️ **Location:** Lviv, Ukraine  
 - 🎓 **Studying:** Computer Science  
 - 💻 **Goal:** Become a Front-End Developer  
