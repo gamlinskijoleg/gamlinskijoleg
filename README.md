@@ -13,7 +13,7 @@
 - 🎂 **Age:** 17 
 - 🏙️ **Location:** Lviv, Ukraine  
 - 🎓 **Studying:** Computer Science  
-- 💻 **Goal:** Become a Front-End Developer  
+- 💻 **Goal:** Become a Senior Full-Stack Developer  
 
 ---
 
@@ -26,7 +26,7 @@
 ## 🛠️ Tech Goals
 
 - 🌐 Master HTML, CSS, JavaScript  
-- ⚛️ Dive deep into React & modern front-end frameworks  
+- ⚛️ Dive deep into React & modern front-end frameworks & libs like Next.JS and React Native 
 - 🧠 Learn clean code practices and UI/UX principles  
 - 🚀 Build real-world projects to showcase my progress  
 
