@@ -39,8 +39,10 @@ I'm a software developer based in Lviv, Ukraine, with professional experience in
 ### 📊 GitHub Stats
 
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=gamlinskijoleg&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gamlinskijoleg&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=gamlinskijoleg&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamlinskijoleg&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
