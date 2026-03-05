@@ -1,16 +1,16 @@
 # Hi, I'm Oleg 👋
 
-**Front-End Developer | Computer Science Student**
+**Front-End Developer ➔ Full-Stack (Node.js)**
 
-I'm a software developer based in Lviv, Ukraine, focusing on building high-performance web and mobile applications. Currently studying Computer Science at Lviv Polytechnic National University and passionate about clean code, modern architectures, and thoughtful UI/UX.
+I'm a software developer based in Lviv, Ukraine, with professional experience in building dynamic user interfaces. Currently, I am actively transitioning into a Full-Stack role, leveraging my strong front-end background to build robust backend architectures with Node.js. I'm also a Computer Science student at Lviv Polytechnic National University, passionate about scalable applications and clean code.
 
 ---
 
 ### 👨‍💻 Current Focus
 
-- 🔭 Developing **EasyRoad** – [тут можна додати 3-4 слова про те, що робить проєкт, наприклад: a modern navigation solution].
-- 💻 Building scalable applications primarily using **Next.js** and **React Native**.
-- 🔧 Exploring full-stack concepts, including database management (SQL, ORMs like Orchid), Java, and Python.
+- 🔭 Developing **EasyRoad** – a modern navigation and route management solution.
+- 💻 Building end-to-end full-stack applications using **Next.js**, **React Native**, and **Node.js**.
+- 🔧 Deepening my knowledge in server-side development, RESTful APIs, and database management (SQL, ORMs).
 
 ---
 
@@ -24,6 +24,7 @@ I'm a software developer based in Lviv, Ukraine, focusing on building high-perfo
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square) 
 
 **Backend & Databases:** ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat-square) 
+![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat-square)
 ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) 
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat-square) 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
