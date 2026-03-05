@@ -1,74 +1,49 @@
-<h1>Hi there!👋 I'm Oleg</h1>
- 
-<p>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <br>
-  🧑‍💻 Computer Science Student | 🎨 Aspiring Front-End Developer
-</p>
+# Hi, I'm Oleg 👋
+
+**Front-End Developer | Computer Science Student**
+
+I'm a software developer based in Lviv, Ukraine, focusing on building high-performance web and mobile applications. Currently studying Computer Science at Lviv Polytechnic National University and passionate about clean code, modern architectures, and thoughtful UI/UX.
 
 ---
 
-## 👤 About Me
+### 👨‍💻 Current Focus
 
-- 🎂 **Age:** 17 
-- 🏙️ **Location:** Lviv, Ukraine  
-- 🎓 **Studying:** Computer Science  
-- 💻 **Goal:** Become a Senior Full-Stack Developer  
-
----
-
-## 💬 Contact Me
-
-- 🛸 **Telegram:** [@vorona_with_red_eyes](https://t.me/vorona_with_red_eyes)
+- 🔭 Developing **EasyRoad** – [тут можна додати 3-4 слова про те, що робить проєкт, наприклад: a modern navigation solution].
+- 💻 Building scalable applications primarily using **Next.js** and **React Native**.
+- 🔧 Exploring full-stack concepts, including database management (SQL, ORMs like Orchid), Java, and Python.
 
 ---
 
-## 🛠️ Tech Goals
+### 🛠️ Tech Stack
 
-- 🌐 Master HTML, CSS, JavaScript  
-- ⚛️ Dive deep into React & modern front-end frameworks & libs
-- 🧠 Learn clean code practices and UI/UX principles  
-- 🚀 Build real-world projects to showcase my progress
+**Frontend & Mobile:** ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square) 
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square) 
+
+**Backend & Databases:** ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat-square) 
+![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) 
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat-square) 
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools & Design:** ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square) 
+![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat-square)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 ---
 
+### 📊 GitHub Stats
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react_with_typescript-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt Badge](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=#00DC82)
-![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)
-![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
-![Mantine Badge](https://img.shields.io/badge/Mantine-339AF0?logo=mantine&logoColor=fff&style=for-the-badge)
-![shadcn/ui Badge](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
-![MUI Badge](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge)
-![Chart.js Badge](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff&style=for-the-badge)
-![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
-![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=for-the-badge)
-![Bun Badge](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff&style=for-the-badge)
-![pnpm Badge](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff&style=for-the-badge)
-![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge)
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
-![ESLint Badge](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=for-the-badge)
-![Prettier Badge](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=fff&style=for-the-badge)
-![Biome Badge](https://img.shields.io/badge/Biome-60A5FA?logo=biome&logoColor=fff&style=for-the-badge)
-![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gamlinskijoleg&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamlinskijoleg&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages" />
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gamlinskijoleg&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gamlinskijoleg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gamlinskijoleg&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+---
 
-Thanks for visiting! 🌟  
-Let’s build something awesome together! 🧩
+### 📫 Let's Connect
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vorona_with_red_eyes)
