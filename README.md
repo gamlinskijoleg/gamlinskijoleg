@@ -1,6 +1,6 @@
 # Hi, I'm Oleg 👋
 
-**Front-End Developer ➔ Full-Stack (Node.js)**
+**Full-Stack Developer**
 
 I'm a software developer based in Lviv, Ukraine, with professional experience in building dynamic user interfaces. Currently, I am actively transitioning into a Full-Stack role, leveraging my strong front-end background to build robust backend architectures with Node.js. I'm also a Computer Science student at Lviv Polytechnic National University, passionate about scalable applications and clean code.
 
@@ -8,7 +8,6 @@ I'm a software developer based in Lviv, Ukraine, with professional experience in
 
 ### 👨‍💻 Current Focus
 
-- 🔭 Developing **EasyRoad** – a modern navigation and route management solution.
 - 💻 Building end-to-end full-stack applications using **Next.js**, **React Native**, and **Node.js**.
 - 🔧 Deepening my knowledge in server-side development, RESTful APIs, and database management (SQL, ORMs).
 
