@@ -69,15 +69,6 @@ I deliver full-cycle product development — turning ideas into fast, polished, 
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamlinskijoleg&theme=discord_old_blurple" alt="Profile Summary" />
 </p>
 
-## Selected Projects
-
-| Project                              | Stack                                                                                                                                                                                                                                                                                                                              | Links                                                                                         |
-| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| **Pole** — browser game              | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)                                                                                                           | [Live](https://polemath.vercel.app/) · [Code](https://github.com/gamlinskijoleg/pole)         |
-| **Test Creator** — quiz/test builder | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | [Live](https://testyzzz.vercel.app/) · [Code](https://github.com/gamlinskijoleg/test-creator) |
-
----
-
 ## Contact
 
 <a href="https://github.com/gamlinskijoleg" target="_blank">
