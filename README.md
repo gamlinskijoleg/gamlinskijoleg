@@ -1,51 +1,91 @@
-# Hi, I'm Oleg 👋
+# Oleg Gamlinskij
 
-**Full-Stack Developer**
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,100:A855F7&height=220&section=header&text=Oleg%20Gamlinskij&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58" alt="Banner" />
+</p>
 
-I'm a software developer based in Lviv, Ukraine, with professional experience in building dynamic user interfaces. Currently, I am actively transitioning into a Full-Stack role, leveraging my strong front-end background to build robust backend architectures with Node.js. I'm also a Computer Science student at Lviv Polytechnic National University, passionate about scalable applications and clean code.
+<p align="left">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=A855F7&vCenter=true&width=760&lines=Full-Stack+Developer+from+Lviv%2C+Ukraine;Building+with+Next.js%2C+React+Native+and+Node.js;Clean+code+%7C+Scalable+apps+%7C+Real+impact" alt="Typing SVG" />
+</p>
 
----
-
-### 👨‍💻 Current Focus
-
-- 💻 Building end-to-end full-stack applications using **Next.js**, **React Native**, and **Node.js**.
-- 🔧 Deepening my knowledge in server-side development, RESTful APIs, and database management (SQL, ORMs).
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend & Mobile:** ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square) 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square) 
-
-**Backend & Databases:** ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat-square) 
-![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat-square)
-![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) 
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat-square) 
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**Tools & Design:** ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square) 
-![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat-square)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+I deliver full-cycle product development — turning ideas into fast, polished, production-ready apps from frontend UX to reliable backend systems.
 
 ---
 
-### 📊 GitHub Stats
+## Current Focus
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=gamlinskijoleg&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=true" alt="GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gamlinskijoleg&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=true&amp;layout=compact" alt="Top Languages" />
-</div>
+- Shipping full-stack products with **Next.js, React Native, and Node.js**
+- Designing backend systems with **REST APIs, SQL, and scalable architecture**
+- Building features that are **fast, maintainable, and ready for real users**
 
 ---
 
-### 📫 Let's Connect
+## Technical Stack
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vorona_with_red_eyes)
+**Frontend & Mobile**
+
+<p>
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+	<img src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
+	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+	<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=expo&logoColor=61DAFB" alt="React Native" />
+	<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
+
+**Backend & Database**
+
+<p>
+	<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+	<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+	<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+</p>
+
+**Tools & Design**
+
+<p>
+	<img src="https://img.shields.io/badge/Linux-FCC621?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+	<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+	<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+	<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+	<img src="https://img.shields.io/badge/Figma-a259ff?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+	<img src="https://img.shields.io/badge/Expo%20Go-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Go" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+## GitHub Stats
+
+<p>
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=gamlinskijoleg&background=0F172A&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakLabel=C084FC&dates=E9D5FF" alt="Custom Streak Stats" />
+</p>
+
+<p>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamlinskijoleg&theme=discord_old_blurple" alt="Profile Summary" />
+</p>
+
+## Selected Projects
+
+| Project                              | Stack                                                                                                                                                                                                                                                                                                                              | Links                                                                                         |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Pole** — browser game              | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)                                                                                                           | [Live](https://polemath.vercel.app/) · [Code](https://github.com/gamlinskijoleg/pole)         |
+| **Test Creator** — quiz/test builder | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | [Live](https://testyzzz.vercel.app/) · [Code](https://github.com/gamlinskijoleg/test-creator) |
+
+---
+
+## Contact
+
+<a href="https://github.com/gamlinskijoleg" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/oleg-gamlinskij-03a423388" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://t.me/vorona_with_red_eyes" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
