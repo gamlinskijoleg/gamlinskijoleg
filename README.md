@@ -24,47 +24,99 @@ I deliver full-cycle product development — turning ideas into fast, polished, 
 
 **Frontend & Mobile**
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Zustand-20232A?style=for-the-badge" alt="Zustand" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Tamagui-151515?style=for-the-badge" alt="Tamagui" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="./assets/badges/turborepo.svg" alt="Turborepo" />
+  <img src="./assets/badges/tanstack-query.svg" alt="TanStack Query" />
+  <img src="./assets/badges/tailwind-css.svg" alt="Tailwind CSS" />
+  <img src="./assets/badges/typescript.svg" alt="TypeScript" />
+  <img src="./assets/badges/zod.svg" alt="Zod" />
+  <img src="./assets/badges/react.svg" alt="React" />
+  <img src="./assets/badges/react-native.svg" alt="React Native" />
+  <img src="./assets/badges/zustand.svg" alt="Zustand" />
+  <img src="./assets/badges/tamagui.svg" alt="Tamagui" />
+  <img src="./assets/badges/expo.svg" alt="Expo" />
+  <img src="./assets/badges/nextjs.svg" alt="Next.js" />
 </p>
 
 **Backend & Database**
 <p>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="./assets/badges/nestjs.svg" alt="NestJS" />
+  <img src="./assets/badges/typeorm.svg" alt="TypeORM" />
+  <img src="./assets/badges/redis.svg" alt="Redis" />
+  <img src="./assets/badges/bullmq.svg" alt="BullMQ" />
+  <img src="./assets/badges/duckdb.svg" alt="DuckDB" />
+  <img src="./assets/badges/nodejs.svg" alt="Node.js" />
+  <img src="./assets/badges/fastapi.svg" alt="FastAPI" />
+  <img src="./assets/badges/postgresql.svg" alt="PostgreSQL" />
+  <img src="./assets/badges/prisma.svg" alt="Prisma" />
+  <img src="./assets/badges/express.svg" alt="Express" />
+</p>
+
+**AI & Assisted Development**
+<p>
+  <img src="./assets/badges/gemini-api.svg" alt="Gemini API" />
+  <img src="./assets/badges/openai-api.svg" alt="OpenAI API" />
+  <img src="./assets/badges/antigravity.svg" alt="Antigravity" />
+  <img src="./assets/badges/github-copilot.svg" alt="GitHub Copilot" />
+  <img src="./assets/badges/cursor.svg" alt="Cursor" />
 </p>
 
 **Machine Learning & Python**
 <p>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="./assets/badges/pytorch.svg" alt="PyTorch" />
+  <img src="./assets/badges/hugging-face.svg" alt="Hugging Face" />
+  <img src="./assets/badges/yolo.svg" alt="YOLO" />
+  <img src="./assets/badges/python.svg" alt="Python" />
 </p>
 
 **Testing & Code Quality**
 <p>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" />
-  <img src="https://img.shields.io/badge/Husky-42b983?style=for-the-badge" alt="Husky" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
+  <img src="./assets/badges/jest.svg" alt="Jest" />
+  <img src="./assets/badges/prettier.svg" alt="Prettier" />
+  <img src="./assets/badges/ruff.svg" alt="Ruff" />
+  <img src="./assets/badges/husky.svg" alt="Husky" />
+  <img src="./assets/badges/pytest.svg" alt="Pytest" />
+  <img src="./assets/badges/biome.svg" alt="Biome" />
+  <img src="./assets/badges/eslint.svg" alt="ESLint" />
 </p>
 
-**Infrastructure & Design**
+**Cloud & Deployment**
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Linux-FCC621?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Figma-a259ff?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="./assets/badges/nginx.svg" alt="Nginx" />
+  <img src="./assets/badges/render.svg" alt="Render" />
+  <img src="./assets/badges/docker.svg" alt="Docker" />
+  <img src="./assets/badges/github-actions.svg" alt="GitHub Actions" />
+  <img src="./assets/badges/railway.svg" alt="Railway" />
+  <img src="./assets/badges/vercel.svg" alt="Vercel" />
+</p>
+
+**Operating Systems**
+<p>
+  <img src="./assets/badges/ubuntu.svg" alt="Ubuntu" />
+  <img src="./assets/badges/linux.svg" alt="Linux" />
+  <img src="./assets/badges/bash.svg" alt="Bash" />
+  <img src="./assets/badges/fedora.svg" alt="Fedora" />
+  <img src="./assets/badges/windows.svg" alt="Windows" />
+  <img src="./assets/badges/macos.svg" alt="macOS" />
+</p>
+
+**Development Tools & Workflow**
+<p>
+  <img src="./assets/badges/git.svg" alt="Git" />
+  <img src="./assets/badges/postman.svg" alt="Postman" />
+  <img src="./assets/badges/pnpm.svg" alt="pnpm" />
+  <img src="./assets/badges/figma.svg" alt="Figma" />
+  <img src="./assets/badges/github.svg" alt="GitHub" />
+</p>
+
+**Other Technologies & Past Experience**
+<p>
+  <img src="./assets/badges/twig.svg" alt="Twig" />
+  <img src="./assets/badges/supabase.svg" alt="Supabase" />
+  <img src="./assets/badges/webpack.svg" alt="Webpack" />
+  <img src="./assets/badges/wordpress.svg" alt="WordPress" />
+  <img src="./assets/badges/php.svg" alt="PHP" />
+  <img src="./assets/badges/make.svg" alt="Make" />
+  <img src="./assets/badges/tailscale.svg" alt="Tailscale" />
 </p>
 
 ## GitHub Stats
@@ -80,11 +132,11 @@ I deliver full-cycle product development — turning ideas into fast, polished, 
 ## Contact
 
 <a href="https://github.com/gamlinskijoleg" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="./assets/badges/github.svg" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/oleg-gamlinskij-03a423388" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="./assets/badges/linkedin.svg" alt="LinkedIn" />
 </a>
 <a href="https://t.me/vorona_with_red_eyes" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="./assets/badges/telegram.svg" alt="Telegram" />
 </a>
