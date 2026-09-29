@@ -142,9 +142,9 @@ I deliver full-cycle product development — turning ideas into fast, polished, 
 <a href="https://github.com/gamlinskijoleg" target="_blank">
   <img src="./assets/badges/github.svg" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/oleg-gamlinskij-03a423388" target="_blank">
+<a href="https://www.linkedin.com/in/oleg-gamlinskij" target="_blank">
   <img src="./assets/badges/linkedin.svg" alt="LinkedIn" />
 </a>
-<a href="https://t.me/vorona_with_red_eyes" target="_blank">
+<a href="https://t.me/oleg_gamlinskij" target="_blank">
   <img src="./assets/badges/telegram.svg" alt="Telegram" />
 </a>
