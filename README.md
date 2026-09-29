@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=A855F7&vCenter=true&width=760&lines=Full-Stack+Developer+from+Lviv%2C+Ukraine;Building+with+Next.js%2C+React+Native+%26+FastAPI;Integrating+Machine+Learning+%26+AI;Clean+code+%7C+Scalable+apps+%7C+Real+impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=A855F7&vCenter=true&width=760&lines=Full-stack+dev+based+in+Lviv;Next.js%2C+React+Native+%26+FastAPI;Working+on+web+apps+and+ML+tools;Always+building+side-projects :)" alt="Typing SVG" />
 </p>
 
 I deliver full-cycle product development — turning ideas into fast, polished, production-ready apps from frontend UX to reliable backend systems.
