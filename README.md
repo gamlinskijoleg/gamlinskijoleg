@@ -24,16 +24,16 @@ I deliver full-cycle product development — turning ideas into fast, polished, 
 
 **Frontend**
 <p>
-  <img src="./assets/badges/react.svg" alt="React" />
-  <img src="./assets/badges/nextjs.svg" alt="Next.js" />
-  <img src="./assets/badges/typescript.svg" alt="TypeScript" />
-  <img src="./assets/badges/tailwind-css.svg" alt="Tailwind CSS" />
-  <img src="./assets/badges/material-ui.svg" alt="Material UI" />
-  <img src="./assets/badges/mantine.svg" alt="Mantine" />
-  <img src="./assets/badges/tanstack-query.svg" alt="TanStack Query" />
-  <img src="./assets/badges/zustand.svg" alt="Zustand" />
   <img src="./assets/badges/turborepo.svg" alt="Turborepo" />
+  <img src="./assets/badges/tanstack-query.svg" alt="TanStack Query" />
+  <img src="./assets/badges/tailwind-css.svg" alt="Tailwind CSS" />
+  <img src="./assets/badges/mantine.svg" alt="Mantine" />
+  <img src="./assets/badges/material-ui.svg" alt="Material UI" />
+  <img src="./assets/badges/typescript.svg" alt="TypeScript" />
   <img src="./assets/badges/zod.svg" alt="Zod" />
+  <img src="./assets/badges/react.svg" alt="React" />
+  <img src="./assets/badges/zustand.svg" alt="Zustand" />
+  <img src="./assets/badges/nextjs.svg" alt="Next.js" />
 </p>
 
 **Mobile**
@@ -45,10 +45,10 @@ I deliver full-cycle product development — turning ideas into fast, polished, 
 
 **Backend & Database**
 <p>
-  <img src="./assets/badges/nestjs.svg" alt="NestJS" />
   <img src="./assets/badges/typeorm.svg" alt="TypeORM" />
-  <img src="./assets/badges/redis.svg" alt="Redis" />
   <img src="./assets/badges/bullmq.svg" alt="BullMQ" />
+  <img src="./assets/badges/redis.svg" alt="Redis" />
+  <img src="./assets/badges/nestjs.svg" alt="NestJS" />
   <img src="./assets/badges/duckdb.svg" alt="DuckDB" />
   <img src="./assets/badges/nodejs.svg" alt="Node.js" />
   <img src="./assets/badges/fastapi.svg" alt="FastAPI" />
@@ -62,8 +62,8 @@ I deliver full-cycle product development — turning ideas into fast, polished, 
   <img src="./assets/badges/gemini-api.svg" alt="Gemini API" />
   <img src="./assets/badges/openai-api.svg" alt="OpenAI API" />
   <img src="./assets/badges/antigravity.svg" alt="Antigravity" />
-  <img src="./assets/badges/github-copilot.svg" alt="GitHub Copilot" />
   <img src="./assets/badges/cursor.svg" alt="Cursor" />
+  <img src="./assets/badges/github-copilot.svg" alt="GitHub Copilot" />
 </p>
 
 **Machine Learning & Python**
@@ -108,20 +108,20 @@ I deliver full-cycle product development — turning ideas into fast, polished, 
 **Development Tools & Workflow**
 <p>
   <img src="./assets/badges/git.svg" alt="Git" />
-  <img src="./assets/badges/github.svg" alt="GitHub" />
-  <img src="./assets/badges/bitbucket.svg" alt="Bitbucket" />
-  <img src="./assets/badges/jira.svg" alt="Jira" />
   <img src="./assets/badges/postman.svg" alt="Postman" />
   <img src="./assets/badges/pnpm.svg" alt="pnpm" />
+  <img src="./assets/badges/bitbucket.svg" alt="Bitbucket" />
+  <img src="./assets/badges/jira.svg" alt="Jira" />
   <img src="./assets/badges/figma.svg" alt="Figma" />
+  <img src="./assets/badges/github.svg" alt="GitHub" />
 </p>
 
 **Other Technologies & Past Experience**
 <p>
   <img src="./assets/badges/twig.svg" alt="Twig" />
   <img src="./assets/badges/supabase.svg" alt="Supabase" />
-  <img src="./assets/badges/webpack.svg" alt="Webpack" />
   <img src="./assets/badges/wordpress.svg" alt="WordPress" />
+  <img src="./assets/badges/webpack.svg" alt="Webpack" />
   <img src="./assets/badges/php.svg" alt="PHP" />
   <img src="./assets/badges/make.svg" alt="Make" />
   <img src="./assets/badges/tailscale.svg" alt="Tailscale" />
@@ -139,12 +139,6 @@ I deliver full-cycle product development — turning ideas into fast, polished, 
 
 ## Contact
 
-<a href="https://github.com/gamlinskijoleg" target="_blank">
-  <img src="./assets/badges/github.svg" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/oleg-gamlinskij" target="_blank">
-  <img src="./assets/badges/linkedin.svg" alt="LinkedIn" />
-</a>
-<a href="https://t.me/oleg_gamlinskij" target="_blank">
-  <img src="./assets/badges/telegram.svg" alt="Telegram" />
-</a>
+[![GitHub](./assets/badges/github.svg)](https://github.com/gamlinskijoleg)
+[![Telegram](./assets/badges/telegram.svg)](https://t.me/oleg_gamlinskij)
+[![LinkedIn](./assets/badges/linkedin.svg)](https://www.linkedin.com/in/oleg-gamlinskij)
