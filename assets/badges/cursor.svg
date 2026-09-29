@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="97.5" height="28" role="img" aria-label="CURSOR"><title>CURSOR</title><g shape-rendering="crispEdges"><rect width="97.5" height="28" fill="#000000"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><image x="9" y="7" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkN1cnNvcjwvdGl0bGU+PHBhdGggZD0iTTExLjUwMy4xMzEgMS44OTEgNS42NzhhLjg0Ljg0IDAgMCAwLS40Mi43MjZ2MTEuMTg4YzAgLjMuMTYyLjU3NS40Mi43MjRsOS42MDkgNS41NWExIDEgMCAwIDAgLjk5OCAwbDkuNjEtNS41NWEuODQuODQgMCAwIDAgLjQyLS43MjRWNi40MDRhLjg0Ljg0IDAgMCAwLS40Mi0uNzI2TDEyLjQ5Ny4xMzFhMS4wMSAxLjAxIDAgMCAwLS45OTYgME0yLjY1NyA2LjMzOGgxOC41NWMuMjYzIDAgLjQzLjI4Ny4yOTcuNTE1TDEyLjIzIDIyLjkxOGMtLjA2Mi4xMDctLjIyOS4wNjQtLjIyOS0uMDZWMTIuMzM1YS41OS41OSAwIDAgMC0uMjk1LS41MWwtOS4xMS01LjI1N2MtLjEwOS0uMDYzLS4wNjQtLjIzLjA2MS0uMjMiLz48L3N2Zz4="/><text transform="scale(.1)" x="587.5" y="175" textLength="535" font-weight="bold">CURSOR</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="77.5" height="28" viewBox="0 0 77.5 28" role="img" aria-label="Cursor">
+  <title>Cursor</title>
+  <rect width="77.5" height="28" rx="14.0" fill="#000000" />
+  <svg x="10.0" y="7.0" width="14" height="14" viewBox="0 0 466.73 532.09" fill="#ffffff" aria-hidden="true"><defs>
+    <style>
+      .st0 {
+        fill: #edecec;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M457.43,125.94L244.42,2.96c-6.84-3.95-15.28-3.95-22.12,0L9.3,125.94c-5.75,3.32-9.3,9.46-9.3,16.11v247.99c0,6.65,3.55,12.79,9.3,16.11l213.01,122.98c6.84,3.95,15.28,3.95,22.12,0l213.01-122.98c5.75-3.32,9.3-9.46,9.3-16.11v-247.99c0-6.65-3.55-12.79-9.3-16.11h-.01ZM444.05,151.99l-205.63,356.16c-1.39,2.4-5.06,1.42-5.06-1.36v-233.21c0-4.66-2.49-8.97-6.53-11.31L24.87,145.67c-2.4-1.39-1.42-5.06,1.36-5.06h411.26c5.84,0,9.49,6.33,6.57,11.39h-.01Z" /></svg>
+  <text x="30.0" y="14.0" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.0" font-weight="600" dominant-baseline="central">Cursor</text>
+</svg>

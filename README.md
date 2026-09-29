@@ -22,19 +22,25 @@ I deliver full-cycle product development — turning ideas into fast, polished, 
 
 ## Technical Stack
 
-**Frontend & Mobile**
+**Frontend**
 <p>
-  <img src="./assets/badges/turborepo.svg" alt="Turborepo" />
-  <img src="./assets/badges/tanstack-query.svg" alt="TanStack Query" />
-  <img src="./assets/badges/tailwind-css.svg" alt="Tailwind CSS" />
-  <img src="./assets/badges/typescript.svg" alt="TypeScript" />
-  <img src="./assets/badges/zod.svg" alt="Zod" />
   <img src="./assets/badges/react.svg" alt="React" />
-  <img src="./assets/badges/react-native.svg" alt="React Native" />
-  <img src="./assets/badges/zustand.svg" alt="Zustand" />
-  <img src="./assets/badges/tamagui.svg" alt="Tamagui" />
-  <img src="./assets/badges/expo.svg" alt="Expo" />
   <img src="./assets/badges/nextjs.svg" alt="Next.js" />
+  <img src="./assets/badges/typescript.svg" alt="TypeScript" />
+  <img src="./assets/badges/tailwind-css.svg" alt="Tailwind CSS" />
+  <img src="./assets/badges/material-ui.svg" alt="Material UI" />
+  <img src="./assets/badges/mantine.svg" alt="Mantine" />
+  <img src="./assets/badges/tanstack-query.svg" alt="TanStack Query" />
+  <img src="./assets/badges/zustand.svg" alt="Zustand" />
+  <img src="./assets/badges/turborepo.svg" alt="Turborepo" />
+  <img src="./assets/badges/zod.svg" alt="Zod" />
+</p>
+
+**Mobile**
+<p>
+  <img src="./assets/badges/react-native.svg" alt="React Native" />
+  <img src="./assets/badges/expo.svg" alt="Expo" />
+  <img src="./assets/badges/tamagui.svg" alt="Tamagui" />
 </p>
 
 **Backend & Database**
@@ -102,10 +108,12 @@ I deliver full-cycle product development — turning ideas into fast, polished, 
 **Development Tools & Workflow**
 <p>
   <img src="./assets/badges/git.svg" alt="Git" />
+  <img src="./assets/badges/github.svg" alt="GitHub" />
+  <img src="./assets/badges/bitbucket.svg" alt="Bitbucket" />
+  <img src="./assets/badges/jira.svg" alt="Jira" />
   <img src="./assets/badges/postman.svg" alt="Postman" />
   <img src="./assets/badges/pnpm.svg" alt="pnpm" />
   <img src="./assets/badges/figma.svg" alt="Figma" />
-  <img src="./assets/badges/github.svg" alt="GitHub" />
 </p>
 
 **Other Technologies & Past Experience**

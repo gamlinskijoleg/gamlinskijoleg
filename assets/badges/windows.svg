@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="112.75" height="28" role="img" aria-label="WINDOWS"><title>WINDOWS</title><g shape-rendering="crispEdges"><rect width="112.75" height="28" fill="#0078d6"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><image x="9" y="7" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJNNjcuMzI4IDY3LjMzMWg2MC42NjlWMTI4SDY3LjMyOHptLTY3LjMyNSAwaDYwLjY2OVYxMjhILjAwM3pNNjcuMzI4IDBoNjAuNjY5djYwLjY2OUg2Ny4zMjh6TS4wMDMgMGg2MC42Njl2NjAuNjY5SC4wMDN6Ii8+PC9zdmc+"/><text transform="scale(.1)" x="663.75" y="175" textLength="687.5" font-weight="bold">WINDOWS</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="88.5" height="28" viewBox="0 0 88.5 28" role="img" aria-label="Windows">
+  <title>Windows</title>
+  <rect width="88.5" height="28" rx="14.0" fill="#0078d6" />
+  <svg x="10.0" y="7.0" width="14" height="14" viewBox="0 0 88 88" fill="#ffffff" aria-hidden="true"><path d="m0 12.402 35.687-4.86.016 34.423-35.67.203zm35.67 33.529.028 34.453L.028 75.48.026 45.7zm4.326-39.025L87.314 0v41.527l-47.318.376zm47.329 39.349-.011 41.34-47.318-6.678-.066-34.739z" fill="#ffffff" /></svg>
+  <text x="30.0" y="14.0" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.0" font-weight="600" dominant-baseline="central">Windows</text>
+</svg>

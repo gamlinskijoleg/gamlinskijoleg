@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96.5" height="28" viewBox="0 0 96.5 28" role="img" aria-label="Material UI">
+  <title>Material UI</title>
+  <rect width="96.5" height="28" rx="14.0" fill="#007FFF" />
+  <svg x="10.0" y="7.0" width="14" height="14" viewBox="0 0 128 128" fill="#ffffff" aria-hidden="true"><path d="M.2 68.6V13.4L48 41v18.4L16.1 41v36.8L.2 68.6zM48 41l47.9-27.6v55.3L64 87l-16-9.2 32-18.4V41L48 59.4V41z" /><path d="M48 77.8v18.4l32 18.4V96.2L48 77.8zM80 114.6L127.8 87V50.2l-16 9.2v18.4L80 96.2v18.4zM111.9 41V22.6l16-9.2v18.4l-16 9.2z" /></svg>
+  <text x="30.0" y="14.0" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.0" font-weight="600" dominant-baseline="central">Material UI</text>
+</svg>
